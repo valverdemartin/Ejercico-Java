@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.userApi.service.UserServiceImplTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-05-16T19:08:37" hostname="EZE1-LLN-B05976" time="1.924">
+  <properties/>
+  <testcase name="loginWithNonExistentUserThrowsBadRequestException()" classname="com.userApi.service.UserServiceImplTest" time="1.359"/>
+  <testcase name="testLoginSuccess()" classname="com.userApi.service.UserServiceImplTest" time="0.242"/>
+  <testcase name="testSignUpUserExists()" classname="com.userApi.service.UserServiceImplTest" time="0.003"/>
+  <testcase name="testLoginInvalidToken()" classname="com.userApi.service.UserServiceImplTest" time="0.003"/>
+  <testcase name="testSignUpSuccess()" classname="com.userApi.service.UserServiceImplTest" time="0.313"/>
+  <system-out><![CDATA[16:08:39.127 [Test worker] INFO com.userApi.service.UserServiceImpl - [login] usuario test@example.com autenticado
+16:08:39.461 [Test worker] INFO com.userApi.service.UserServiceImpl - Usuario creado id=6b268b88-4b62-4e20-a122-f8653e80e7ce email=test@example.com
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

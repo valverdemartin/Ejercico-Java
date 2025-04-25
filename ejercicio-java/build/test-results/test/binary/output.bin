@@ -1,0 +1,2 @@
+t16:08:39.127 [Test worker] INFO com.userApi.service.UserServiceImpl - [login] usuario test@example.com autenticado
+•16:08:39.461 [Test worker] INFO com.userApi.service.UserServiceImpl - Usuario creado id=6b268b88-4b62-4e20-a122-f8653e80e7ce email=test@example.com
